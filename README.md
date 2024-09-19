@@ -13,5 +13,5 @@ z = ("manzana",)  # Se necesita la coma para que sea una tupla.
 print(type(x))  # Imprimirá: <class 'list'>
 print(type(y))  # Imprimirá: <class 'tuple'>
 print(type(z))  # Imprimirá: <class 'tuple'>
+![image](https://github.com/user-attachments/assets/b377a1f5-59f7-4ff3-9687-637943129029)
 
-![image](https://github.com/user-attachments/assets/6ec3e3cb-dae8-4007-83e2-2262a4ef674f)
